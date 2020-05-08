@@ -1,0 +1,2 @@
+# Compupedia
+Compupedia, proyecto integrador
