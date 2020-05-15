@@ -1,0 +1,2 @@
+# ENCOM
+Compupedia, proyecto integrador
